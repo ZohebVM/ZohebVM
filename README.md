@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZohebVM
-- 👀 I’m interested in coding, photography, exploring and meeting new people!
-- 🌱 I’m currently learning React.
-- 🚘 I'm working with Vertu Motors.
+- 👀 I’m interested in coding, photography, exploring and meeting new people
+- 🌱 I’m currently learning React
+- 🚘 I'm working with Vertu Motors
 - 📫 I can be reached via email through zoheb.malik@vertumotors.com
 
 <!---
